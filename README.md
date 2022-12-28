@@ -1,6 +1,13 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FFF0&lines=%F0%9F%91%8B++%F0%9D%90%87%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%8B%F0%9D%90%8E+%F0%9D%90%92%F0%9D%90%88%F0%9D%90%91+%F0%9D%90%96%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%84++%F0%9F%A4%9D%3B++%F0%9F%98%8C%F0%9D%90%8C%F0%9D%90%98+%F0%9D%90%86%F0%9D%90%88%F0%9D%90%93%F0%9D%90%87%F0%9D%90%94%F0%9D%90%81+%F0%9D%90%80%F0%9D%90%82%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%8D%F0%9D%90%93++%3B++%F0%9D%90%88%F0%9D%90%93%27%F0%9D%90%92+%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93+%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%97%F0%9D%90%88%F0%9D%90%82++%3B++%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%84%3A+%F0%9D%90%80%F0%9D%90%91%F0%9D%90%88%F0%9D%90%85+%F0%9D%90%87%F0%9D%90%80%F0%9D%90%92%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%88%F0%9D%90%8D+%F0%9F%92%9C+%3B+%F0%9F%98%8C+++%F0%9D%90%88%27%F0%9D%90%8C+%F0%9D%90%80+%F0%9D%90%92%F0%9D%90%93%F0%9D%90%94%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93++%F0%9F%98%8B+%3B++++%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%83+%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%91%F0%9D%90%93+%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%84+++%3B+++++%F0%9D%90%8F%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%86%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%91++%F0%9F%98%8E)](https://git.io/typing-svg)
+
+</p>
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+
 
 <div align="left">
 <br>
