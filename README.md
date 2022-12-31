@@ -43,11 +43,19 @@
 ![Profile views](https://gpvc.arturio.dev/T0XIC-CYBER)  
 
 
-- 👋 Hi, I’m @T0XIC-CYBER
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <h1>MY PROJECTS<h1>
+	<a href="https://github.com/T0XIC-CYBER/ARIF-BOMBER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=ARIF-BOMBER&theme=dark" height="100" width="300"></a>
+	<a href="https://github.com/T0XIC-CYBER/Hack-ErrOr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=Hack-ErrOr&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/Termux-All_Srtup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=Termux-All_Setup&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/Extra-Key"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=Extra-Key&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/IP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=IP&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/ITSN0B1T4/bash-enc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=CIRCLE-TOOLS&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/DDoS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=DDoS&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/TempMail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=TempMail&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/TOXIC-VAU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=TOXIC-VAU&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/T0XIC-CYBER/T0XIC-CYBER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=T0XIC-CYBER&repo=T0XIC-CYBER&theme=dark" height="100" width="300"></a>
+</div>
 
 <!---
 T0XIC-CYBER/T0XIC-CYBER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
