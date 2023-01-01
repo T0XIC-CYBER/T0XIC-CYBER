@@ -28,8 +28,9 @@
 <br>
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/T0XIC-CYBER/T0XIC-CYBER/.tenor.gif" alt="Bt">
-<p align="center"><img src="https://raw.githubusercontent.com/T0XIC-CYBER/T0XIC-CYBER/.TOXIC.gif" alt="Bt">
+<p align="center"><img src="https://raw.githubusercontent.com/T0XIC-CYBER/T0XIC-CYBER/main/.tenor.gif" alt="Bt">
+
+<p align="center"><img src="https://raw.githubusercontent.com/T0XIC-CYBER/T0XIC-CYBER/main/.TOXIC.gif" alt="Bt">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=T0XIC-CYBER&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
